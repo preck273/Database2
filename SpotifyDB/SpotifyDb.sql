@@ -1,4 +1,4 @@
-CREAT DATABASE SpotifyDatabase
+--CREAT DATABASE SpotifyDatabase
 
 USE SpotifyDatabase;
 GO

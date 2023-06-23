@@ -16,6 +16,7 @@ WHERE UserId NOT IN (
 );
 
 3.List the usernames of users who have liked all songs in a specific playlist.
+
 SELECT U.Username
 FROM Users AS U
 WHERE NOT EXISTS (
