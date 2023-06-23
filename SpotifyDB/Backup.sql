@@ -35,3 +35,42 @@ MOVE 'SpotifyDatabase_log' TO 'C:\Backup2\SpotifyDatabase_log.ldf';
 
 --2. Restore Diffrencial backup, a transactional log backup has to be restore before restoring differential backup
 
+
+
+Concurrency
+
+--first set to Transaction isolation level SERIALIZATTION. It ensures that concurrent transactions cannot read or modify data that has been read which prevent phantom read
+
+SET TRANSACTION ISOLATION LEVEL SERIALIZABLE;
+
+1. Transaction: Reading data from table
+
+BEGIN TRANSACTION;
+
+SELECT U.UserId, U.UserName, COUNT(UserLikesId) AS TotalLikes
+FROM dbo.Users AS U
+LEFT JOIN dbo.UserLikes AS UL ON U.UserId = UL.UserId
+GROUP BY U.UserId, U.Username;
+
+COMMIT;
+
+2. Transaction: To update Genre from pop to rock where Artist name is Ed Sheeran. This transaction will acquire appropriate locks to prevent conflicts and minimize the chances of deadlocks.
+
+BEGIN TRANSACTION;
+
+UPDATE Albums
+SET Genre = 'Rock'
+FROM Albums AS A
+JOIN Songs AS S ON A.SongId = S.SongId
+JOIN Artists AS AR ON A.ArtistId = AR.ArtistId
+WHERE S.Genre = 'Pop' AND AR.Name = 'Ed Sheeran';
+
+COMMIT;
+
+
+
+
+
+
+2.
+
