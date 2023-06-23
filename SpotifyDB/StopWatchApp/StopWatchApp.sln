@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NET", "StopWatchApp\ADO.NET.csproj", "{3B809B25-365C-4090-AB87-80AAB7AA93DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDb", "MongoDb\MongoDb.csproj", "{0159888B-3C06-476C-9555-BCF3E071558A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B809B25-365C-4090-AB87-80AAB7AA93DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B809B25-365C-4090-AB87-80AAB7AA93DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B809B25-365C-4090-AB87-80AAB7AA93DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B809B25-365C-4090-AB87-80AAB7AA93DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0159888B-3C06-476C-9555-BCF3E071558A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0159888B-3C06-476C-9555-BCF3E071558A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0159888B-3C06-476C-9555-BCF3E071558A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0159888B-3C06-476C-9555-BCF3E071558A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B77D02A7-8938-4178-AE9D-212093840E0A}
+	EndGlobalSection
+EndGlobal
