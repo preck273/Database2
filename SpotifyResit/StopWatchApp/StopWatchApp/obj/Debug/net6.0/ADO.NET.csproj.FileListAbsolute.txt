@@ -1,0 +1,44 @@
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\bin\Debug\net6.0\ADO.NET.exe
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\bin\Debug\net6.0\ADO.NET.deps.json
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\bin\Debug\net6.0\ADO.NET.runtimeconfig.json
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\bin\Debug\net6.0\ADO.NET.dll
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\bin\Debug\net6.0\ADO.NET.pdb
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.csproj.AssemblyReference.cache
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.AssemblyInfoInputs.cache
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.AssemblyInfo.cs
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.csproj.CopyComplete
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.dll
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\obj\Debug\net6.0\refint\ADO.NET.dll
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.pdb
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.genruntimeconfig.cache
+C:\Users\Pepelito\source\repos\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ref\ADO.NET.dll
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\bin\Debug\net6.0\ADO.NET.exe
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\bin\Debug\net6.0\ADO.NET.deps.json
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\bin\Debug\net6.0\ADO.NET.runtimeconfig.json
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\bin\Debug\net6.0\ADO.NET.dll
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\bin\Debug\net6.0\ADO.NET.pdb
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.csproj.AssemblyReference.cache
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.AssemblyInfoInputs.cache
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.AssemblyInfo.cs
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.csproj.CopyComplete
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.dll
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\obj\Debug\net6.0\refint\ADO.NET.dll
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.pdb
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ADO.NET.genruntimeconfig.cache
+C:\Users\Pepelito\Desktop\Year 2\period 3\DataBase2\SpotifyDB\StopWatchApp\StopWatchApp\obj\Debug\net6.0\ref\ADO.NET.dll
