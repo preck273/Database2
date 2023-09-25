@@ -1,6 +1,6 @@
 --Trigger are types of stored procedures that run in response to an event occurring in a database.
 
--- 1 create a trigger  deletes associated playlist songs when a playlist is deleted.
+-- 1 create a trigger to deletes associated playlist songs when a playlist is deleted.
 
 CREATE TRIGGER DeleteAssociatedPlaylistSongs
 ON Playlists
